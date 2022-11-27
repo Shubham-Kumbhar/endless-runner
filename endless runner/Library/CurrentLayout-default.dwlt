@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 820.8
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 90028
+  controlID: 64
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 421}
   m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 90029
+  controlID: 40
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 89961
+  controlID: 65
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,8 +245,8 @@ MonoBehaviour:
     y: 0
     width: 437.6
     height: 338.4
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -362,7 +362,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -375,7 +375,7 @@ MonoBehaviour:
       y: 21
       width: 821.4
       height: 340
-    m_Scale: {x: 0.3935185, y: 0.3935185}
+    m_Scale: {x: 0.41782406, y: 0.41782406}
     m_Translation: {x: 410.7, y: 170}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -383,12 +383,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1043.6613
-      y: -432
-      width: 2087.3225
-      height: 864
+      x: -982.94965
+      y: -406.8698
+      width: 1965.8993
+      height: 813.7396
     m_MinimalGUI: 1
-  m_defaultScale: 0.3935185
+  m_defaultScale: 0.41782406
   m_LastWindowPixelSize: {x: 1026.75, y: 451.25}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -431,9 +431,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 960, y: 540, z: 0}
+    m_Target: {x: 335.7806, y: 364.81497, z: -76.71655}
     speed: 2
-    m_Value: {x: 960, y: 540, z: 0}
+    m_Value: {x: 335.7806, y: 364.81497, z: -76.71655}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -480,13 +480,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.073700264, y: -0.033804696, z: 0.0024997809, w: -0.99670595}
+    m_Target: {x: -0.0853412, y: 0.09162823, z: -0.007881801, w: -0.9921}
     speed: 2
-    m_Value: {x: -0.07370026, y: -0.033804692, z: 0.0024997809, w: -0.9967059}
+    m_Value: {x: -0.0853412, y: 0.09162823, z: -0.007881801, w: -0.9921}
   m_Size:
-    m_Target: 384.18338
+    m_Target: 688.99646
     speed: 2
-    m_Value: 384.18338
+    m_Value: 688.99646
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -539,9 +539,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: c8400000
       m_LastClickedID: 0
-      m_ExpandedIDs: 5cd2fcff82d2fcff0cd4fcff26d4fcff34d4fcff28fdfcff7416fdff4025fdff6c26fdff562cfdffe42efdffee2ffdff4836fdff7236fdff9640fdff864afdff9e4afdff0253fdffd25bfdff6666fdff9c70fdff0274fdffdc9affffa8d4ffff94e0ffffb2e0ffffe6e0fffff4e0ffff60f8ffffa0faffff82a60000c2a7000020a800000aac000028ac000032ac000046ac00009aae0000b8ae0000c4ae0000c8ae0000d4ae0000
+      m_ExpandedIDs: c4f8ffff00f9ffff2cf9ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -611,14 +611,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\college\unity games\endless runner\endless runner 2
+  m_LastProjectPath: D:\college\unity games\endless runner\endless runner
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 023f0000
-    m_LastClickedID: 16130
-    m_ExpandedIDs: 00000000003f000000ca9a3b
+    m_SelectedIDs: b0400000
+    m_LastClickedID: 16560
+    m_ExpandedIDs: 00000000a240000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -646,7 +646,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000003f000000ca9a3b
+    m_ExpandedIDs: 00000000a2400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,7 +673,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000000000000e930000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public int coins;
     public TextMeshProUGUI CoinText;
     public GameObject[] lifeImage;
+    public int winCoinnumber = 100;
 
     public GameObject gameWinUI,gameLoseUI, gameUI;
     // Start is called before the first frame update
